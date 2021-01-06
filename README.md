@@ -1,0 +1,2 @@
+# platzihyperblog
+blog de platzi
